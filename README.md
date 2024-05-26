@@ -1,5 +1,13 @@
-# Hi there! Welcome !👋
-I'm Laraib Ishtiaq, a software developer with over 2 years of experience in web applications. but 6 years of experience in IT. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+![Github](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/d8e40279-40e9-417f-95b0-c29277bf6724)
+<h1 align="center">Hi 👋, I'm Laraib Ishtiaq</h1>
+I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+
+<h3 align="center">A passionate developer from Pakistan</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <img aighn="right" alt="coding"="400" scr="https://vsgif.com/gif/3195660
+"/>
+</p>
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
@@ -49,3 +57,9 @@ I'm Laraib Ishtiaq, a software developer with over 2 years of experience in web 
 ## Contact 📫
 * Email: arishfafatima94@gmail.com
 * Linkedin: bajwashan44@gmail.com
+
+  ## 📊 GitHub Stats:
+![TechwizLaraib Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashimthepassionate&theme=graywhite&hide_border=true)</br>
+![TechwizLaraib Stats](https://github-readme-stats.vercel.app/api?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
+![TechwizLaraib Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechwizLaraib &theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
