@@ -4,9 +4,6 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<h3 align="left">Connect with me:</h3>
-"/>
-</p>
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
@@ -36,6 +33,8 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
     
   </p>
 
+![236119160-976a0405-caa7-470c-9356-16d43402ea0a](https://github.com/Techwiz-Laraib/Techwiz-Laraib/assets/159939710/0c546e6b-d54d-4c99-b780-fe60bea1cf2f)
+
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -49,8 +48,6 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 </details>
 
 ## Education 🎓
-
-![236119160-976a0405-caa7-470c-9356-16d43402ea0a](https://github.com/Techwiz-Laraib/Techwiz-Laraib/assets/159939710/0c546e6b-d54d-4c99-b780-fe60bea1cf2f)
 
 * Bachelor's degree in Computer Science
 * Courses: Machine Learning, AI, Web3, and Metaverse.
