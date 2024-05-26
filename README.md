@@ -57,8 +57,5 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 * Email: arishfafatima94@gmail.com
 * Linkedin: bajwashan44@gmail.com
 
-  ## 📊 GitHub Stats:
-![TechwizLaraib Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashimthepassionate&theme=graywhite&hide_border=true)</br>
-![TechwizLaraib Stats](https://github-readme-stats.vercel.app/api?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
-![TechwizLaraib Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechwizLaraib &theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
 
